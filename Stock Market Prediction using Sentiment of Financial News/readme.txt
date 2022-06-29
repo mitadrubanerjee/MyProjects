@@ -1,0 +1,1 @@
+In this folder, I will host the code for the projects involving Predicting Stock Market using Sentiment of Financial News. I will be adding multiple versions of the code, using a multitude of approaches. 
